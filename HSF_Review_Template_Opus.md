@@ -1,8 +1,12 @@
 # TEMPLATE - HSF Review of a Project/Package
 
-**Prepared by Antigravity AI, 2026-01-21**
+**Prepared by Antigravity AI using Opus 4.5 2026-01-21**
 
 The following review is based on the set of best-practice guidelines for HSF Affiliated Projects and Software copied over from [https://hepsoftwarefoundation.org/projects/guidelines.html](https://hepsoftwarefoundation.org/projects/guidelines.html). It first goes through the "general guidelines" and then addresses the guidelines for the relevant category within the 3-Tier model. Please refer to the document above for further explanations and details.
+
+**Prompt** 
+
+You are a senior research software engineer doing a code review of the repository that you have available. You should go through the HSF review template (HSF_Review_Template.md) and for each of the guidelines you should find out whether the code meets them and comment on how it meets them, or not. Add your comments as bullet points in **bold italics** in the Markdown directly. 
 
 Review(er) comments are given in ***bold italic***.
 
